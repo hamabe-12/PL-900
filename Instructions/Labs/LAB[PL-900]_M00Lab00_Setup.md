@@ -25,6 +25,6 @@ ms.locfileid: "147154397"
 
 ### <a name="task-1---acquire-your-microsoft-power-platform-trial-tenant"></a>タスク \#1 - Microsoft Power Platform の試用版テナントを取得する
 
-1. [Microsoft評価版アカウント作成手順](file/Microsoft評価版アカウント作成手順.docx)より[Download]をクリックしてください。
+1. [Microsoft評価版アカウント作成手順](file/Microsoft評価版アカウント作成手順.pdf)より[Download]をクリックしてください。
 
-2. ダウンロードされたwordファイルに書かれている手順に沿ってアカウントを作成し、PowerAppsのライセンス(試用版環境)を取得してください。
+2. ダウンロードされたPDFファイルに書かれている手順に沿ってアカウントを作成し、PowerAppsのライセンス(試用版環境)を取得してください。
