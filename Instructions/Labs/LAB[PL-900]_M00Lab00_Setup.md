@@ -1,6 +1,6 @@
 ---
 lab:
-  title: ラボ 0:ラボ環境を検証する
+  title: ラボ 0:ラボ環境を検証
   module: 'Module 0: Course introduction'
 ms.openlocfilehash: d25543d93be7e40749c8fee3a01c35b3a8f2947b
 ms.sourcegitcommit: 8a89b7eacd1a65eaa7c5d6bff0dc7254991c4dde
