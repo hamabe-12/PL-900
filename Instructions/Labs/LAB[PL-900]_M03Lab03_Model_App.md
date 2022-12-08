@@ -72,7 +72,7 @@ ms.locfileid: "147154421"
 
 6. 左側にあるフィールドの右に「...」をクリック、「＋選択したセクションに追加します」をクリックする
 
-![フィールドの例](3-model-driven-app-practice1.png)
+![フィールドの例](media/3-model-driven-app-practice1.png)
 
     1. **訪問者**
 
@@ -178,7 +178,7 @@ ms.locfileid: "147154421"
 
 5. 表示される画面で一番目の[Dataverse～～]を選ぶ
 
-![表示された画面の例](3-model-driven-app-practice2.png)
+![表示された画面の例](media/3-model-driven-app-practice2.png)
 
 6. 次のテーブルを追加します。
 
