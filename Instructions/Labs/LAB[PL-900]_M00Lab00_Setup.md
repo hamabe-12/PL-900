@@ -28,3 +28,5 @@ ms.locfileid: "147154397"
 1. [Microsoft評価版アカウント作成手順](file/Microsoft評価版アカウント作成手順.pdf)より[Download]をクリックしてください。
 
 2. ダウンロードされたPDFファイルに書かれている手順に沿ってアカウントを作成し、PowerAppsのライセンス(試用版環境)を取得してください。
+
+[次の章へ(ラボ1)](https://github.com/hamabe-12/PL-900/blob/main/Instructions/Labs/LAB%5BPL-900%5D_M02Lab01_Data_Model.md)
