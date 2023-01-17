@@ -9,7 +9,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 07/15/2022
 ms.locfileid: "147154421"
 ---
-# <a name="lab-3-how-to-build-a-model-driven-app"></a>課題 3:モデル駆動型アプリをビルドする方法
+# <a name="lab-3-how-to-build-a-model-driven-app"></a>ラボ 3:モデル駆動型アプリをビルドする方法
 
 ## <a name="scenario"></a>シナリオ
 
@@ -278,4 +278,4 @@ ms.locfileid: "147154421"
 - 連絡先の特定のビューやフォームを選択してみましょう
 
 
-[次の章へ(ラボ5)](https://github.com/hamabe-12/PL-900/blob/main/Instructions/Labs/LAB%5BPL-900%5D_M04Lab01_Power_Automate.md)
+[次の章へ(ラボ4)](https://github.com/hamabe-12/PL-900/blob/main/Instructions/Labs/LAB%5BPL-900%5D_M04Lab01_Power_Automate.md)

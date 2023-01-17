@@ -166,4 +166,4 @@ ms.locfileid: "147154325"
 - メールのさまざまな書式を試してみましょう。 どうすればプロ並みの外観になるでしょうか?
 
 
-[次の章へ(ラボ6)](https://github.com/hamabe-12/PL-900/blob/main/Instructions/Labs/LAB%5BPL-900%5D_M05Lab01_Power_BI.md)
+[次の章へ(ラボ5)](https://github.com/hamabe-12/PL-900/blob/main/Instructions/Labs/LAB%5BPL-900%5D_M05Lab01_Power_BI.md)
