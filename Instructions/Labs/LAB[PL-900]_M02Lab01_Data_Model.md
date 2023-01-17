@@ -238,4 +238,4 @@ ms.locfileid: "147154409"
 
 これで、正常に新しいテーブルが作成され、データがインポートされました。
 
-[次の章へ(ラボ2)](https://github.com/hamabe-12/PL-900/blob/main/Instructions/Labs/LAB%5BPL-900%5D_M03Lab01_Canvas_App.md)
+[次の章へ(ラボ2)](https://github.com/hamabe-12/PL-900/blob/main/Instructions/Labs/LAB%5BPL-900%5D_M03Lab02_Canvas_App.md)
