@@ -187,7 +187,7 @@ ms.locfileid: "147154409"
 
 このタスクでは、Excel ファイルから訪問データをインポートします。
 
-1. **Visits.xlsx** ファイルがデスクトップに格納されている必要があります。 [Visits.xlsx](file/Visits.xlsx) をまだダウンロードしていない場合は、遷移ページ（Visits.xlsx）の中央にある「View raw」をクリックするとダウンロードできます。
+1. **Visits.xlsx** ファイルがデスクトップに格納されている必要があります。遷移ページ [Visits.xlsx](file/Visits.xlsx) の中央にある「View raw」をクリックするとダウンロードできます。
 
 2. [https://make.powerapps.com](https://make.powerapps.com/) にまだサインインしていない場合は、サインインします。
 
