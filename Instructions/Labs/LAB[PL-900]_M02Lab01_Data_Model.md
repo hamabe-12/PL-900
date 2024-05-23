@@ -55,7 +55,7 @@ ms.locfileid: "147154409"
 
 このタスクでは、タスク \#2でテーブル作成する際に使用するデータをダウンロードします。
 
-1. **Visits.xlsx** ファイルがデスクトップに格納されている必要があります。遷移ページ [Visits.xlsx](file/Visits.xlsx) の中央にある「View raw」をクリックするとダウンロードできます。
+1. **Visits.xlsx** ファイルがデスクトップに格納されている必要があります。遷移ページ [Visits.xlsx](file/Visits.xlsx) の右にある [ダウンロード] ボタン をクリックするとダウンロードできます。
 
 ### <a name="task-1-create-visit-table-and-columns"></a>タスク \#2:訪問テーブルを作成する
 
