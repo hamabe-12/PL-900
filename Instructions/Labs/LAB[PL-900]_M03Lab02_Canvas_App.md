@@ -125,8 +125,6 @@ ms.locfileid: "147154433"
 
 お疲れさまでした。 最初のキャンバス アプリの作成と構成が完了しました。
 
-## <a name="challenges"></a>課題
 
-- [DetailScreen1] と [EditScreen1] のフォームに列 [実際の開始]、[実際の終了]、[コード]、[開始予定]、[終了予定] を追加してみましょう
 
 [次の章へ(ラボ3)](https://github.com/hamabe-12/PL-900/blob/main/Instructions/Labs/LAB%5BPL-900%5D_M03Lab03_Model_App.md)
